@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+psycopg2-binary
+prisma
+pydantic
+openai
+requests
+google-generativeai
+chromadb
+PyPDF2
+qdrant-client
+spacy
+
+sentence-transformers
+apscheduler
+pydantic[email]
+gunicorn
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+pymupdf
+blis --prefer-binary
